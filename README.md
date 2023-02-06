@@ -4,4 +4,4 @@ Place the directory in \Steam\skins\. After you’ve extracted the contents of t
 <br><strong>Linux users:</strong> Read the included readme for instructions how to install this skin on Linux. A few issues with fonts requires some manual work. Please let me know if you experience any issues with this, I haven’t tested it much myself.
 
 <h2>Support or Contact</h2>
-[You can find the original repository by badanka here.](https://github.com/badanka/Compact)
+You can find the original repository by badanka here: https://github.com/badanka/Compact
